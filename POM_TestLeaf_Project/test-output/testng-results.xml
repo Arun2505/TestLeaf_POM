@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6046" started-at="2021-01-16T06:26:15Z" finished-at="2021-01-16T06:26:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6046" started-at="2021-01-16T06:26:15Z" finished-at="2021-01-16T06:26:21Z">
+      <class name="Pack.TestLeaf.TestCases.UserPage_Testing">
+        <test-method status="PASS" signature="LaunchBro()[pri:0, instance:Pack.TestLeaf.TestCases.UserPage_Testing@42dafa95]" name="LaunchBro" is-config="true" duration-ms="5140" started-at="2021-01-16T06:26:15Z" finished-at="2021-01-16T06:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBro -->
+        <test-method status="PASS" signature="usertest()[pri:0, instance:Pack.TestLeaf.TestCases.UserPage_Testing@42dafa95]" name="usertest" duration-ms="688" started-at="2021-01-16T06:26:20Z" finished-at="2021-01-16T06:26:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usertest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Pack.TestLeaf.TestCases.UserPage_Testing@42dafa95]" name="close" is-config="true" duration-ms="169" started-at="2021-01-16T06:26:20Z" finished-at="2021-01-16T06:26:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Pack.TestLeaf.TestCases.UserPage_Testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
